@@ -3,7 +3,7 @@
 **HR-система для Беларуси** — кадровый учёт, приказы, сотрудники, отпуска, трудовые договоры.
 
 
-Telegram: https://t.me/hrmsbelarus
+Telegram: https://t.me/MonarchDev
 Telegram chat https://t.me/+HcSxdLmm-RFlYzdi
 
 ---
