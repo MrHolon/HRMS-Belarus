@@ -48,7 +48,6 @@ HRMS Belarus/
 │   ├── lib/               # n8n-клиент, auth, utils
 │   └── .env.example       # Шаблон переменных окружения
 ├── docker/                # Docker Compose, Supabase override
-├── setup/                 # Скрипты развёртывания (5 шагов)
 ├── scripts/               # Утилиты (backup-db.ps1)
 ├── backups/               # Резервные копии БД
 └── docker-compose.yml     # n8n + hrms-web
