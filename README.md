@@ -61,22 +61,6 @@ HRMS Belarus/
 - **Docker Desktop** 4.x (Linux containers)
 - **Git** 2.x
 
-### Установка
-
-```powershell
-git clone https://github.com/MMMonarch/HRMS-Belarus.git
-cd HRMS-Belarus
-
-.\setup\01-install-prerequisites.ps1   # Проверка зависимостей
-.\setup\02-setup-supabase.ps1          # Клонирование Supabase, создание .env
-copy hrms-web\.env.example hrms-web\.env.local   # Настройка переменных фронта
-.\setup\03-start-stack.ps1             # Запуск Docker-стека
-.\setup\04-restore-db.ps1              # Восстановление БД из бэкапа (если есть)
-.\setup\05-healthcheck.ps1             # Проверка здоровья сервисов
-```
-
-Подробная инструкция: [`setup/README.md`](setup/README.md)
-
 ### Порты
 
 | Сервис | Порт |
