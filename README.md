@@ -74,7 +74,6 @@ HRMS Belarus/
 
 | Файл | Описание |
 |------|----------|
-| [`setup/README.md`](setup/README.md) | Развёртывание на новой машине |
 | [`hrms-web/ARCHITECTURE.md`](hrms-web/ARCHITECTURE.md) | Архитектура фронтенда |
 | [`docker/README.md`](docker/README.md) | Docker-инфраструктура |
 | [`backups/README.md`](backups/README.md) | Резервное копирование |
